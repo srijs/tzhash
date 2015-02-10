@@ -3,6 +3,3 @@
 name = "tzhash"
 version = "0.0.1"
 authors = ["Sam Rijs <srijs@airpost.net>"]
-
-[dependencies]
-simdty = "*"
